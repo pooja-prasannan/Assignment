@@ -2,7 +2,6 @@
 
 Used Tailwindcss.Basically i am frontend developer(not used to do styling part), so i have done only minimal styling.
 Included code of Searching but could not integrated completely due to time limit.
-# Kindly have a look at the source code in MASTER branch.
 
 ### `Project at:`
 

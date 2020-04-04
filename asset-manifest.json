@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Assignment/static/js/main.9b116ef9.chunk.js",
+    "main.js.map": "/Assignment/static/js/main.9b116ef9.chunk.js.map",
+    "runtime-main.js": "/Assignment/static/js/runtime-main.3862610c.js",
+    "runtime-main.js.map": "/Assignment/static/js/runtime-main.3862610c.js.map",
+    "static/js/2.4c5ae7e7.chunk.js": "/Assignment/static/js/2.4c5ae7e7.chunk.js",
+    "static/js/2.4c5ae7e7.chunk.js.map": "/Assignment/static/js/2.4c5ae7e7.chunk.js.map",
+    "index.html": "/Assignment/index.html",
+    "precache-manifest.c104ab577cad971f439ee670dc4d05d6.js": "/Assignment/precache-manifest.c104ab577cad971f439ee670dc4d05d6.js",
+    "service-worker.js": "/Assignment/service-worker.js",
+    "static/js/2.4c5ae7e7.chunk.js.LICENSE.txt": "/Assignment/static/js/2.4c5ae7e7.chunk.js.LICENSE.txt",
+    "static/media/poster1.jpg": "/Assignment/static/media/poster1.d5f2a7f4.jpg",
+    "static/media/poster2.jpg": "/Assignment/static/media/poster2.81ccf144.jpg",
+    "static/media/poster3.jpg": "/Assignment/static/media/poster3.e242f037.jpg",
+    "static/media/poster4.jpg": "/Assignment/static/media/poster4.56f09724.jpg",
+    "static/media/poster5.jpg": "/Assignment/static/media/poster5.5ef7f794.jpg",
+    "static/media/poster6.jpg": "/Assignment/static/media/poster6.164b05a3.jpg",
+    "static/media/poster7.jpg": "/Assignment/static/media/poster7.23ac494a.jpg",
+    "static/media/poster8.jpg": "/Assignment/static/media/poster8.ef89f612.jpg",
+    "static/media/poster9.jpg": "/Assignment/static/media/poster9.65d6d500.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3862610c.js",
+    "static/js/2.4c5ae7e7.chunk.js",
+    "static/js/main.9b116ef9.chunk.js"
+  ]
+}
